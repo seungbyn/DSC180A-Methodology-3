@@ -73,7 +73,7 @@ index 04812ed..6da83de 100644
     "metadata": {},
     "outputs": [],
     "source": [
-+    "# Mutliplication first!\n",
++    "# Multiplication first!\n",
      "(5 * 2) ** 3"
     ]
    },
